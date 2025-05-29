@@ -38,7 +38,7 @@ Counter Exmpale
 
 
 
-<section id="useState-example" >
+<section id="useEffect-example" >
 <h3>
 <li> 
 useState 
