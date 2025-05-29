@@ -8,7 +8,7 @@
     - ###  <a href="https://github.com/dm-thedeveloper/React-Hooks/blob/main/src/hooks/UseState.jsx"> code </></a>
 
 1. ### useEffect   
-    - ###  <a href=""> Preview 🖼️</a>
+    - ###  <a href="#useEffect-example"> Preview 🖼️</a>
     - ###  <a href="https://github.com/dm-thedeveloper/React-Hooks/blob/main/src/hooks/UseEffect.jsx"> code </></a>
 3. Comming Soon..........
    - useRef 
